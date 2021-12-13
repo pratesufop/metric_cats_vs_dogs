@@ -44,5 +44,5 @@ References:
 
 [Triplet](https://omoindrot.github.io/triplet-loss)
 
-[Center Loss: A Discriminative Feature Learning Approach for Deep Face Recognition] (https://ydwen.github.io/papers/WenECCV16.pdf) 
+[Center Loss: A Discriminative Feature Learning Approach for Deep Face Recognition](https://ydwen.github.io/papers/WenECCV16.pdf) 
 
