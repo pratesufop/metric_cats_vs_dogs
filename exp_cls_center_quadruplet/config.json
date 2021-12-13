@@ -1,0 +1,12 @@
+{
+    "mode": "ml",
+    "ml_method": "quadruplet",
+    "center_loss": true,
+    "batch_size": 32,
+    "im_size": 224,
+    "num_epochs": 40,
+    "augmentations": ["flip", "cutout", "rotation"],
+    "cls_weight": 1,
+    "ml_weight": 0.01,
+    "cl_weight": 0.001
+}
