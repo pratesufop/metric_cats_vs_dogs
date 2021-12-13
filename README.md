@@ -16,6 +16,8 @@ Table I. Obtained experimental results in the Cats vs Dogs database.
 In each folder (ex. exp_cls), I provide the configuration (config.json) employed to achieve these results. To train a model using a specific configuration:
 
 ```python
+# create a novel environment and then
+pip install -r requeriments.txt
 train.py exp_cls\config.json
 ```
 
